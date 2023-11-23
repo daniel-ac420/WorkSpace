@@ -926,7 +926,7 @@ textarea:focus {
 }
 /* ↑↑↑ 540px ↑↑↑ */
 
-@media (max-width: 425px) {
+@media (max-width: 430px) {
 	
 	.wrapper {
 		max-width: 410px; /* +20px because of padding */
@@ -974,7 +974,7 @@ textarea:focus {
 	
 	/* ↑  FOOTER ↑ */
 }
-/* ↑↑↑ 425px ↑↑↑ */
+/* ↑↑↑ 430px ↑↑↑ */
 
 @media (max-width: 375px) {
 	/* ↓ HEADER ↓ */
